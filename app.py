@@ -75,6 +75,6 @@ if st.button('recommend'):
         st.image(posters[4])
 
     with col3:
-        st.subheaderf(names[5])
+        st.subheader(names[5])
         st.image(posters[5])
 
